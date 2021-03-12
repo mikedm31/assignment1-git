@@ -1,8 +1,9 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.print("hello");
+        System.out.println("hello");
         Person first = new Person("Tim");
 
-        System.out.print(first.name);
+        System.out.println(first.name);
+        System.out.println("HEY!!")
     }
 }
