@@ -1,6 +1,8 @@
 public class Person {
-    String name;
+    String firstName;
+    String gender;
     Person(String name){
-        this.name = name;
+        this.firstName = name;
+
     }
 }
