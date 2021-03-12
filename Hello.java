@@ -4,6 +4,7 @@ public class Hello {
         Person first = new Person("Tim");
 
         System.out.println(first.name);
-        System.out.println("HEY!!")
+        System.out.println("HEY!!");
+        System.out.println("Hellow Again!!");
     }
 }
